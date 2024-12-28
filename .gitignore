@@ -1,0 +1,58 @@
+## Ignore build results
+bin/
+obj/
+
+## User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+.vs/
+.vscode/
+
+## Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+## Windows Installer files
+Thumbs.db
+
+## ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+## .NET Core / .NET 5+ / .NET 6+ / ASP.NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Tye - Tye is a developer tool for microservices
+.tye/
+
+## Rider IDE files
+.idea/
+
+## Temporary files from VS Code
+.vscode/
+
+## JetBrains Rider
+.idea/
+
+# Npm packages
+node_modules/
+
+# Coverage results
+coverage/
+
+# VS for Mac
+.vscode/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Mac system files
+.DS_Store
